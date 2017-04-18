@@ -1,7 +1,10 @@
-# test coverage for  [node-geocoder (v3.16.0)](https://github.com/nchaulet/node-geocoder#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-geocoder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-geocoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-geocoder.svg)](https://travis-ci.org/npmtest/node-npmtest-node-geocoder)
+# npmtest-node-geocoder
+
+#### test coverage for  [node-geocoder (v3.16.0)](https://github.com/nchaulet/node-geocoder#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-geocoder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-geocoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-geocoder.svg)](https://travis-ci.org/npmtest/node-npmtest-node-geocoder)
+
 #### Node Geocoder, node geocoding library, supports google maps, mapquest, open street map, tom tom, promise
 
-[![NPM](https://nodei.co/npm/node-geocoder.png?downloads=true)](https://www.npmjs.com/package/node-geocoder)
+[![NPM](https://nodei.co/npm/node-geocoder.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-geocoder)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-node-geocoder/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-geocoder/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-geocoder/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-geocoder/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-geocoder/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-geocoder/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-node-geocoder/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-node-geocoder/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-geocoder/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-node-geocoder/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-node-geocoder%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-node-geocoder/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-geocoder/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-node-geocoder/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-node-geocoder/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-node-geocoder%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-geocoder/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-node-geocoder/build/test-report.html](https://npmtest.github.io/node-npmtest-node-geocoder/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-node-geocoder/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-node-geocoder/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-node-geocoder/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-node-geocoder/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-node-geocoder/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-geocoder/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-node-geocoder/build/screenCapture.npmPackageListing.svg)
 
@@ -87,13 +96,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "nchaulet",
-            "email": "n.chaulet@gmail.com"
+            "name": "nchaulet"
         }
     ],
     "name": "node-geocoder",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/nchaulet/node-geocoder.git"
