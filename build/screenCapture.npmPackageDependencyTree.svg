@@ -63,6 +63,6 @@
 <tspan x="10" y="970">  └─┬ request-promise@4.2.0 </tspan>
 <tspan x="10" y="986">    ├─┬ request-promise-core@1.1.1 </tspan>
 <tspan x="10" y="1002">    │ └── lodash@4.17.4 </tspan>
-<tspan x="10" y="1018">    └── stealthy-require@1.0.0</tspan>
+<tspan x="10" y="1018">    └── stealthy-require@1.1.0</tspan>
 </text>
 </svg>
