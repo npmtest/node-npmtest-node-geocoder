@@ -1,6 +1,6 @@
 # npmtest-node-geocoder
 
-#### test coverage for  [node-geocoder (v3.16.0)](https://github.com/nchaulet/node-geocoder#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-geocoder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-geocoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-geocoder.svg)](https://travis-ci.org/npmtest/node-npmtest-node-geocoder)
+#### basic test coverage for  [node-geocoder (v3.16.0)](https://github.com/nchaulet/node-geocoder#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-geocoder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-geocoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-geocoder.svg)](https://travis-ci.org/npmtest/node-npmtest-node-geocoder)
 
 #### Node Geocoder, node geocoding library, supports google maps, mapquest, open street map, tom tom, promise
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-geocoder/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-geocoder/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-geocoder/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-geocoder/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-geocoder/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-geocoder/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-geocoder/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-geocoder/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-geocoder/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-geocoder/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-geocoder/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-geocoder/build/coverage.html/index.html)
 
@@ -110,7 +110,8 @@
         "lint": "eslint lib",
         "test": "mocha --check-leaks"
     },
-    "version": "3.16.0"
+    "version": "3.16.0",
+    "bin": {}
 }
 ```
 
